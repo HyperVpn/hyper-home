@@ -309,19 +309,19 @@ footer p {
 }
 
 .windows {
-  background-image: url("../image/win.svg");
+  background-image: url("../image/win1.svg");
 }
 
 .android {
-  background-image: url("../image/android.svg");
+  background-image: url("../image/android1.svg");
 }
 
 .ios {
-  background-image: url("../image/apple.svg");
+  background-image: url("../image/apple1.svg");
 }
 
 .macos {
-  background-image: url("../image/mac.svg");
+  background-image: url("../image/mac1.svg");
 }
 
 .text {
@@ -352,7 +352,7 @@ footer p {
   .text {
     font-size: 12px; /* 字体更小 */
   }
-  
+
 }
 
 @media (max-width: 480px) {

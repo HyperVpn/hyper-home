@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo3</title>
+    <defs>
+        <linearGradient x1="1.15185639e-13%" y1="6.36939114%" x2="89.6754976%" y2="91.7280527%" id="linearGradient-1">
+            <stop stop-color="#D262FC" offset="0%"></stop>
+            <stop stop-color="#7661FA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo备份" transform="translate(-66, -41)">
+            <g id="编组-2" transform="translate(66, 41)">
+                <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="48" height="48" rx="10"></rect>
+                <g id="编组" transform="translate(9.3333, 6.6164)">
+                    <path d="M6.94736842,4.7520032 L29.6842105,4.7520032 L29.6842105,4.7520032 L24.6315789,18.64674 L6.94736842,18.64674 C3.11044279,18.64674 2.34943935e-16,15.5362973 0,11.6993716 C-4.69887869e-16,7.86244599 3.11044279,4.7520032 6.94736842,4.7520032 Z" id="矩形" fill="#FFFFFF"></path>
+                    <path d="M8.07533952,10.8533694 L14.1187546,10.8533694 L14.1187546,10.8533694 L33.9569996,24.7472973 L25.75955,24.7481063 L8.07533952,24.7481063 C4.23841389,24.7481063 1.1279711,21.6376635 1.1279711,17.8007379 C1.1279711,13.9638122 4.23841389,10.8533694 8.07533952,10.8533694 Z" id="矩形" fill-opacity="0.9" fill="#FFFFFF" transform="translate(17.5425, 17.8007) rotate(-70) translate(-17.5425, -17.8007)"></path>
+                    <path d="M29.6842105,4.7520032 L26.8812778,12.4553628 L24.6276316,18.6460032 L9.84063158,18.6460032 L29.6842105,4.7520032 Z" id="形状结合" fill="#EABDFF" opacity="0.25"></path>
+                    <polygon id="路径-6" fill="#7C61FA" opacity="0.249898" points="9.84063158 18.64674 21.286951 27.8085581 24.6315789 18.64674"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
