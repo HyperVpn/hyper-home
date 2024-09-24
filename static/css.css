@@ -269,3 +269,63 @@ footer p {
 @media screen and (max-width: 550px) {
     /* 移除针对移动设备的特殊样式 */
 }
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px;
+}
+
+.icon-box {
+  text-align: center;
+  margin: 10px;
+}
+
+.icon-link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  border: 1px solid rgba(51, 51, 51, 0.2);
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.icon-link:hover {
+  background-color: #f0f0f0;
+  border-color: rgba(51, 51, 51, 0.4);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.windows {
+  background-image: url("../image/win.svg");
+}
+
+.android {
+  background-image: url("../image/android.svg");
+}
+
+.ios {
+  background-image: url("../image/apple.svg");
+}
+
+.macos {
+  background-image: url("../image/mac.svg");
+}
+
+.text {
+  margin-top: 10px;
+  color: #333;
+  font-size: 14px;
+}
