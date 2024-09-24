@@ -352,6 +352,7 @@ footer p {
   .text {
     font-size: 12px; /* 字体更小 */
   }
+  
 }
 
 @media (max-width: 480px) {
